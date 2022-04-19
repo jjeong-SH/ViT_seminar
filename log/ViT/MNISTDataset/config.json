@@ -1,9 +1,9 @@
 {
     "seed": 123,
     "dataset": "MNISTDataset",
-    "resize": 128,
+    "resize": 224,
     "val_ratio": 0.2,
     "epochs": 10,
-    "batch_size": 32,
+    "batch_size": 16,
     "lr": 0.0001
 }
