@@ -1,5 +1,5 @@
 # ViT_seminar
-training 3 different models from scratch - for image processing trasformers seminar
+training 3 different models from scratch - for image processing transformers seminar
 
 
 ## directory tree
